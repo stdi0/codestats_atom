@@ -16,8 +16,8 @@ Codestats это плагин, который посчитает сколько 
 
 В значении переменной PATH установите ```%USERPROFILE%\AppData\Local\atom\bin```
 
-3. Откройте файл user.coffee в папке установленного плагина. Например, для OS X он находится в ```~/.atom/packages/codestats/lib``` Для Windows: ```%USERPROFILE%\Local\.atom\packages\codestats\lib```
-4. Замените ```your_username``` и ```your_password``` на Ваши логин и пароль, которые указывали при регистрации.
+2. Откройте файл user.coffee в папке установленного плагина. Например, для OS X он находится в ```~/.atom/packages/codestats/lib``` Для Windows: ```%USERPROFILE%\Local\.atom\packages\codestats\lib```
+3. Замените ```your_username``` и ```your_password``` на Ваши логин и пароль, которые указывали при регистрации.
 
 Запустите Atom.
 
