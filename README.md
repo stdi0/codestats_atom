@@ -13,7 +13,6 @@ Codestats это плагин, который посчитает сколько 
 Примечание:
 Если Вы пользователь Windows, удостоверьтесь что у Вас установлена нужная переменная среды PATH.
 О том, как настроить переменную среды, Вы можете узнать по ссылке: https://www.java.com/ru/download/help/path.xml
-
 В значении переменной PATH установите ```%USERPROFILE%\AppData\Local\atom\bin```
 
 2. Откройте файл user.coffee в папке установленного плагина. Например, для OS X он находится в ```~/.atom/packages/codestats/lib``` Для Windows: ```%USERPROFILE%\Local\.atom\packages\codestats\lib```
