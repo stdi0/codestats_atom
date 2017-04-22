@@ -1,0 +1,15 @@
+{
+  "name": "codestats",
+  "main": "./lib/codestats",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/stdi0/codestats_atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

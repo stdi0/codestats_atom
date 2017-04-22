@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle codestats",
+        "command": "codestats:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "codestats",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "codestats:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
