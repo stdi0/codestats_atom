@@ -9,10 +9,13 @@ Codestats это плагин, который посчитает сколько 
 Первым делом зарегистрируйтесь на [сodestats.pythonanywhere.com](http://codestats.pythonanywhere.com), там же вы будет видеть свою статистику.
 
 1. Выполните команду ```apm install codestats```
+
 Примечание:
 Если Вы пользователь Windows, удостоверьтесь что у Вас установлена нужная переменная среды PATH.
 О том, как настроить переменную среды, Вы можете узнать по ссылке: https://www.java.com/ru/download/help/path.xml
+
 В значении переменной PATH установите ```%USERPROFILE%\AppData\Local\atom\bin```
+
 3. Откройте файл user.coffee в папке установленного плагина. Например, для OS X он находится в ```~/.atom/packages/codestats/lib``` Для Windows: ```%USERPROFILE%\Local\.atom\packages\codestats\lib```
 4. Замените ```your_username``` и ```your_password``` на Ваши логин и пароль, которые указывали при регистрации.
 
